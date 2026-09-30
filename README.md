@@ -12,7 +12,7 @@
 
 了解 Skill 的设计初衷、研发团队、使用须知与安装方式。网页会在浏览器中直接打开，无需下载 HTML 文件。
 
-**[打开介绍网页 →]index(1).html**
+**[进入下载和安装向导 →](https://leslie8989.github.io/ProfYu-Skill/)**
 
 ### 02 &nbsp; 在 Codex 中安装
 
