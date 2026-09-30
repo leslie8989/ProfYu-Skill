@@ -1,5 +1,3 @@
-# ProfYu-Skill
-蒸馏我的导师于文轩｜AI论文导师 Skill 与使用向导
 <p align="center"><sub>ACADEMIC WRITING · AI MENTOR</sub></p >
 <h1 align="center">蒸馏我的导师于文轩</h1>
 <h3 align="center">AI 论文导师 Skill</h3>
@@ -14,14 +12,14 @@
 
 了解 Skill 的设计初衷、研发团队、使用须知与安装方式。网页会在浏览器中直接打开，无需下载 HTML 文件。
 
-**[打开介绍网页 →]https://profyuskill.github.io/ProfYu-Skill/**
+**[打开介绍网页 →](https://profyuskill.github.io/ProfYu-Skill/)**
 
 ### 02 &nbsp; 在 Codex 中安装
 
 将下面**整句话**复制到 Codex 聊天框。Codex 可按指令从本仓库的最新正式版本获取并安装 Skill；若出现权限确认，请按提示操作。
 
 ```text
-请从 https://github.com/leslie8989/ProfYu-Skill/ 的最新正式 Release 中获取 ProfYu.zip，安装其中名为 profyunv 的 Skill；安装完成后告诉我如何调用。
+请从 https://github.com/leslie8989/ProfYu-Skill.git 的最新正式 Release 中获取 ProfYu.zip，安装其中名为 profyunv 的 Skill；安装完成后告诉我如何调用。
 ```
 
 ---
