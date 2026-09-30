@@ -21,7 +21,7 @@
 将下面**整句话**复制到 Codex 聊天框。Codex 可按指令从本仓库的最新正式版本获取并安装 Skill；若出现权限确认，请按提示操作。
 
 ```text
-请从 https://github.com/ProfYuSkill/ProfYu-Skill 的最新正式 Release 中获取 ProfYu.zip，安装其中名为 profyunv 的 Skill；安装完成后告诉我如何调用。
+请从 https://github.com/leslie8989/ProfYu-Skill/ 的最新正式 Release 中获取 ProfYu.zip，安装其中名为 profyunv 的 Skill；安装完成后告诉我如何调用。
 ```
 
 ---
